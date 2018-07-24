@@ -1,0 +1,15 @@
+name: frost_transition
+description: Example of Frosted Glass effect for a page transition.
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  video_player: "^0.5.1"
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - res/video.mp4
